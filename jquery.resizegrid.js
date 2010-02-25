@@ -1,20 +1,7 @@
 /*!
  * Resizegrid for jQuery 1.3.2
- * Version: 0.1.0
+ * Version: 0.2.0
  * Author: Mikkel Wendt-Larsen(phylock@gmail.com)
- *
- * TODO:
- * - change duration to distance per sec, and make calculations
- * - toggle focus, at click keep div in focus even when mouse is moved out
- *
- * Versions:
- * 0.1.0 - Jan 2010 
- * - initial version
- * 0.2.0 - Jan 2010
- * - now uses an object array as settings
- * - added recalculation on window resize
- * - added possibility to define padding
- * - added possibility to define collapsed size of cells
  */
 
 /**
