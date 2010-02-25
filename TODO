@@ -1,0 +1,4 @@
+TODO:
+- change duration to distance per sec, and make calculations
+- toggle focus, at click keep div in focus even when mouse is moved out
+- create demo html/css

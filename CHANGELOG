@@ -1,0 +1,7 @@
+0.1.0 - Jan 2010
+- initial version
+0.2.0 - Jan 2010
+- now uses an object array as settings
+- added recalculation on window resize
+- added possibility to define padding
+- added possibility to define collapsed size of cells
